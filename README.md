@@ -25,7 +25,7 @@ Works only on Linux and OS X. Windows is not supported yet. If you want to use t
 
 ### Step-by-step:
  * `pip install jupyter-c-kernel`
- * `install_c_kernel`
+ * `install_c_kernel --user`
  * `jupyter-notebook`. Enjoy!
 
 ## Example of notebook
